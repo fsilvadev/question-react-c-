@@ -1,0 +1,15 @@
+/Users/allto/Documents/www/secullum/csharp/Program/bin/Debug/net7.0/Program
+/Users/allto/Documents/www/secullum/csharp/Program/bin/Debug/net7.0/Program.deps.json
+/Users/allto/Documents/www/secullum/csharp/Program/bin/Debug/net7.0/Program.runtimeconfig.json
+/Users/allto/Documents/www/secullum/csharp/Program/bin/Debug/net7.0/Program.dll
+/Users/allto/Documents/www/secullum/csharp/Program/bin/Debug/net7.0/Program.pdb
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.csproj.AssemblyReference.cache
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.AssemblyInfoInputs.cache
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.AssemblyInfo.cs
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.csproj.CoreCompileInputs.cache
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.dll
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/refint/Program.dll
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.pdb
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/Program.genruntimeconfig.cache
+/Users/allto/Documents/www/secullum/csharp/Program/obj/Debug/net7.0/ref/Program.dll
