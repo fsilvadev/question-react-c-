@@ -124,6 +124,6 @@ class Registro
 
 // Lógica 
 
-// Crio meu dictionary para armazenar minhas chave que é uma combinação de funcionario + data e o value se torna a hora
-// Crio um loop para percorrer sobre o vetor,  e crio as variáveis chave e tempo para armazenar os valores atuais do índice do loop
-// Faço as validações para garantir de forma automática a identificação de entrada e saída, e no final atribuindo o valor total de trabalho para cada funcionario e data
+// Crio meu dictionary para armazenar minhas chaves que é uma combinação de funcionário + data e o valor se torna a hora
+// Crio um loop para percorrer sobre o vetor, e crio as variáveis-chave e tempo para armazenar os valores atuais do índice do loop
+// Faço as validações para garantir de forma automática a identificação de entrada e saída, e no final atribuindo o valor total de trabalho para cada funcionário e data
